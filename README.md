@@ -12,7 +12,7 @@ Beyond standard knowledge and common applications, the goal is to explore how di
 | 2 | Churn (Churn/Not) Prediction | Churn model prediction Identify churn drivers | Telco | Logistic Regression Decision Tree | Accuracy, Precision, Recall  |  |  |
 | 3 | Customer Lifetime Value |  |  |  |  |  |  |
 | 4 | Customer Segmentation |  | [Wholesale](https://www.kaggle.com/datasets/binovi/wholesale-customers-data-set) |  |  |  |  |  |
-| 5 | Customer Segmentation | Customer Segmentation based con Life Time Value (Recency Monetary Frequency) | [Olist ecommerce](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) |K-Means|  |  |  |
+| 5 | Customer Segmentation | Customer Segmentation based on Life Time Value (Recency Frequency Monetary) | [Olist ecommerce](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) |K-Means|  |  |  |
 | 6 | A/B Testing|  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |
 
