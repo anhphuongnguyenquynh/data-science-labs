@@ -8,13 +8,11 @@ Beyond standard knowledge and common applications, the goal is to explore how di
 
 | **Id** | **Title** | **Description** | **Dataset** | **Methods** | **Metrics** | **Results** | **Note** |
 |---|---|---|---|---|---|---|---|
-| 1 | Click Through Rate Prediction  | Predict whether user click or not | [Avazu](https://www.kaggle.com/competitions/avazu-ctr-prediction/data) | Deep Neural Network | Accuracy | 0.8251 |  |
-| 2 | Churn (Churn/Not) Prediction | Churn model prediction Identify churn drivers | Telco | Logistic Regression Decision Tree | Accuracy, Precision, Recall  |  |  |
-| 3 | Churn (Churn/Not) Prediction | Churn model prediction Identify churn drivers | Telecom | Logistic Regression | Accuracy|  |  |
-| 4 | Customer Lifetime Value |  |  |  |  |  |  |
-| 5 | Customer Segmentation |  | [Wholesale](https://www.kaggle.com/datasets/binovi/wholesale-customers-data-set) |  |  |  |  |  |
-| 6 | Customer Segmentation | Customer Segmentation based on Life Time Value (Recency Frequency Monetary) | [Olist ecommerce](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) |K-Means|  |  |  |
-| 6 | A/B Testing|  |  |  |  |  |  |
+| 1 | Click Through Rate Prediction  | Predict whether user click or not | [Avazu](https://www.kaggle.com/competitions/avazu-ctr-prediction/data) | Deep Neural Network | Accuracy | 0.8251 | Done |
+| 2 | Churn (Churn/Not) Prediction | Churn model prediction Identify churn drivers | Telco | Logistic Regression Decision Tree | Accuracy  | 0.7053 | Done |
+| 3 | Customer Segmentation | Customer Segmentation based on Life Time Value (Recency Frequency Monetary) | [Olist ecommerce](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) |K-Means|  |  | Done |
+| 4 | Customer Segmentation |  | [Wholesale](https://www.kaggle.com/datasets/binovi/wholesale-customers-data-set) |  |  |  |  |  |
+| 5 | Customer Lifetime Value |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |
 
 ## 2. Finance
@@ -25,15 +23,7 @@ Beyond standard knowledge and common applications, the goal is to explore how di
 |        |                               |                 |             |             |             |             |          |
 |        |                               |                 |             |             |             |             |          |
 
-## 3. Healthcare | Medical
-| **Id** | **Title**                     | **Description** | **Dataset** | **Methods** | **Metrics** | **Results** | **Note** |
-|--------|-------------------------------|-----------------|-------------|-------------|-------------|-------------|----------|
-|        |                               |                 |             |             |             |             |          |
-|        |                               |                 |             |             |             |             |          |
-|        |                               |                 |             |             |             |             |          |
-|        |                               |                 |             |             |             |             |          |
-
-## 4. Others
+## 3. Others
 | **Id** | **Title**                     | **Description** | **Dataset** | **Methods** | **Metrics** | **Results** | **Note** |
 |--------|-------------------------------|-----------------|-------------|-------------|-------------|-------------|----------|
 |        |                               |                 |             |             |             |             |          |
