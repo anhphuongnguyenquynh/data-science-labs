@@ -6,7 +6,7 @@ Beyond standard knowledge and common applications, the goal is to explore how di
 
 ## Applied Machine Learning & Deep Learning use cases
 
-## 1. Product | Customer | Marketing
+## 1. Customer | Product | Marketing
 
 | **Id** | **Title** | **Description** | **Dataset** | **Methods** | **Metrics** | **Results** | **Note** |
 |---|---|---|---|---|---|---|---|
@@ -17,15 +17,8 @@ Beyond standard knowledge and common applications, the goal is to explore how di
 | 5 | Customer Lifetime Value Prediction |  | [Online Retail](https://archive.ics.uci.edu/dataset/502/online+retail+ii) |  |  |  |  |
 |  |  |  |  |  |  |  |  |
 
-## 2. Finance
-| **Id** | **Title**                     | **Description** | **Dataset** | **Methods** | **Metrics** | **Results** | **Note** |
-|--------|-------------------------------|-----------------|-------------|-------------|-------------|-------------|----------|
-|        |                               |                 |             |             |             |             |          |
-|        |                               |                 |             |             |             |             |          |
-|        |                               |                 |             |             |             |             |          |
-|        |                               |                 |             |             |             |             |          |
 
-## 3. Others
+## 2. Others
 | **Id** | **Title**                     | **Description** | **Dataset** | **Methods** | **Metrics** | **Results** | **Note** |
 |--------|-------------------------------|-----------------|-------------|-------------|-------------|-------------|----------|
 |        |                               |                 |             |             |             |             |          |
