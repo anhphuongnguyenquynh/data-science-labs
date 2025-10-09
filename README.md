@@ -14,7 +14,7 @@ Beyond standard knowledge and common applications, the goal is to explore how di
 | 2 | Churn (Churn/Not) Prediction | Churn model prediction and identify churn drivers | Telco | Logistic Regression Decision Tree | Accuracy  | 0.7053 | Done |
 | 3 | Customer Segmentation | Customer segmentation based on Life Time Value (Recency Frequency Monetary) | [Olist ecommerce](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) |K-Means|  |  | Done |
 | 4 | Customer Segmentation | Customer segmentation based on history purchase | [Wholesale](https://www.kaggle.com/datasets/binovi/wholesale-customers-data-set) | K-Means, NMF |  |  | Done |
-| 5 | Customer Lifetime Value Prediction |  | [Online Retail](https://archive.ics.uci.edu/dataset/502/online+retail+ii) |  |  |  |  |
+| 5 | Customer Lifetime Value Prediction |  | [Online Retail](https://archive.ics.uci.edu/dataset/502/online+retail+ii) |  |  |  | In progress |
 |  |  |  |  |  |  |  |  |
 
 
@@ -25,6 +25,10 @@ Beyond standard knowledge and common applications, the goal is to explore how di
 |        |                               |                 |             |             |             |             |          |
 |        |                               |                 |             |             |             |             |          |
 |        |                               |                 |             |             |             |             |          |
+
+## Applied Statistics
+
+## Dashboard and Visualization
 
 ## ⚙️ Tech Stack
 - [Scikit-learn](https://scikit-learn.org/) 
