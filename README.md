@@ -22,14 +22,22 @@ Beyond standard knowledge and common applications, the goal is to explore how di
 | **Id** | **Title**                     | **Description** | **Dataset** | **Methods** | **Metrics** | **Results** | **Note** |
 |--------|-------------------------------|-----------------|-------------|-------------|-------------|-------------|----------|
 |        |                               |                 |             |             |             |             |          |
-|        |                               |                 |             |             |             |             |          |
-|        |                               |                 |             |             |             |             |          |
-|        |                               |                 |             |             |             |             |          |
+
 
 ## Applied Statistics
 
+
 ## Dashboard and Visualization
 
+| **Id** | **Project name** | **Description** | **Dataset** | **Tool** | **Link** | **Status** | **Note** |
+|---|---|---|---|---|---|---|---|
+| 1 | Analyzing Customer Churn |  |  | Tableau |  | In progress |  |
+| 2 | Ecommerce |  |  | Tableau |  | In progress |  |
+| 3 | Supply Chain |  |  | Tableau |  | In progress |  |
+| 4 | Inventory Analytics |  |  | Tableau |  | In progress |  |
+
 ## ⚙️ Tech Stack
-- [Scikit-learn](https://scikit-learn.org/) 
+- [Scikit-learn](https://scikit-learn.org/)
+- [Pytorch](https://pytorch.org/) 
 - [Matplotlib / Seaborn](https://matplotlib.org/)    
+- [Tableau](https://www.tableau.com/)
