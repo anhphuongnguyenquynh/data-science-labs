@@ -19,9 +19,9 @@ Beyond standard knowledge and common applications, the goal is to explore how di
 
 
 ## 2. Others
-| **Id** | **Title**                     | **Description** | **Dataset** | **Methods** | **Metrics** | **Results** | **Note** |
-|--------|-------------------------------|-----------------|-------------|-------------|-------------|-------------|----------|
-|        |                               |                 |             |             |             |             |          |
+| **Id** | **Title** | **Description** | **Dataset** | **Methods** | **Metrics** | **Results** | **Note** |
+|---|---|---|---|---|---|---|---|
+|1|Kaggle Playground Ss5Ep10 - Accident Risk Prediction|Predict accident risk based on the type conditions of road ane the history|[Kaggle Accident Risk](https://www.kaggle.com/competitions/playground-series-s5e10)|Multi Layer Perceptron|MSE|0.065|Done|
 
 
 ## Applied Statistics
